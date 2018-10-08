@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">QuizPutri</string>
+    <string name="tulisan">TextView</string>
+    <string name="tulisan1">Tempat ibadah tidak hancur akibat tsunami di Palu, Bagaimana dengan Tempat Maksiat ?</string>
+    <string name="tanggal">8/10/2018</string>
+    <string name="gambar1">TODO</string>
+    <string name="teks2">PUTRI.CO.NEWS, PALU--Suasana kondisi Masjid Arwan Bab Al Rahman yang hancur di kawasan Pantai Talise, Palu, Sulawesi Tengah, Selasa (2/10). Masjid ini rusak namun tidak rusak terlalu parah. berbeda dengan tempat maksiat seperti tempat disco, bahkan jembatan kuning rusak parah. Gempa ini berkekuatan 7,4 skala Richer yang menyebabkan tsunami yang terjadi jumat (28/9) lalu. ribuan orang meninggal dalam gempa ini. bahkan banyak mayat ditemukan ditempay-tempat maksiat ini. konon, dahulu ada ulama yang menyarankan untuk ditutupnya tempat maksiat ini, namun tak ada yang mendengarnya.</string>
+    <string name="gambar2">TODO</string>
+    <string name="judul">Gempa Palu</string>
+    <string name="baca">baca selengkapnya</string>
+    <string name="teks4">korupsi DPRD kota Malang</string>
+    <string name="baca_selengkapnya">baca selengkapnya</string>
+    <string name="gambar3">TODO</string>
+    <string name="korupsi">Korupsi DPRD Kota Malang</string>
+    <string name="gambar4">TODO</string>
+    <string name="berita2">PUTRI.com-- Sebanyak 41 dari 45 anggota DPRD kota malang melakukan korupsi yang ditangani oleh Komisi Pemberantas Korupsi (KPK). Akibatnya, proses pembangunan si Kota Malang terancam Lumpuh. Rombongan terduga koruptor terjerat dugaan kasusu suap pembahasan APBD-P Pemkot Malang Tahun Anggaran 2015.</string>
+    <string name="idola_cilik_junior_kini_persaingan_semakin_ketat">Idola Cilik Junior kini persaingan semakin ketat</string>
+    <string name="baca2">baca selengkapnya....</string>
+    <string name="judul2">Indonesian Idol Junior 2018</string>
+    <string name="gambarlagi">TODO</string>
+    <string name="beritalagii">Putri.com-- Indonesian idol Junior kini bersaing ketat meuju Panggung Spekta. Latihan sering mereka lakukan untuk mendapat tiket tersebut. salah satu peserta yang berjuang keras dengan suara uniknya adalah Nashwa Zahira. gadis ini sering digoda oleh juri, Rizky Febian lantaran parasnya yang cantik dan suaranya yang merdu. nashwa berharap dapat lolos ke tahap berikutnya agar bisa membanggakan orang tuuanya.</string>
+    <string name="gambar7">TODO</string>
+</resources>
